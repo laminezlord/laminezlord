@@ -18,7 +18,7 @@
 class Laminez:
     role      = "AI/ML Engineer & Software Developer"
     building  = ["AI agents", "intelligent systems", "SaaS products"]
-    built     = ["AutoWave", "PennyPal", "StockPilot", "Snapl"]
+    built     = ["AutoWave", "JapaSims", "PennyPal", "StockPilot", "Snapl"]
     education = "ADSE @ Aptech  →  BSc Top-up @ Middlesex University"
     right_now = "Hacking at Cosmo Hacks 2026 🚀"
 
@@ -32,7 +32,7 @@ class Laminez:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,dart,java" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,dart,java" />
 
 **AI / Machine Learning**
 
@@ -44,7 +44,7 @@ class Laminez:
 
 **Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,django,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,django,nodejs" />
 
 **Mobile, Databases & Cloud**
 
@@ -74,6 +74,22 @@ Mechanics on demand. Drivers find nearby mechanics within their budget, track th
   <img src="https://raw.githubusercontent.com/laminezlord/autowave/main/docs/screenshots/04-mechanics-near-you.png" width="220" />
   <img src="https://raw.githubusercontent.com/laminezlord/autowave/main/docs/screenshots/08-live-tracking-eta.png" width="220" />
   <img src="https://raw.githubusercontent.com/laminezlord/autowave/main/docs/screenshots/07-escrow-payment.png" width="220" />
+</p>
+
+### 🎮 [JapaSims](https://www.japasims.site)
+
+A multiplayer 3D life sim in the browser. Hustle through Lagos (NEPA, danfo, agent scams), build your money and skills, pass your exams, get your visa and *japa* to the UK, USA, Canada or Germany, all alongside real players. **[Play it →](https://www.japasims.site)**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
+![18+](https://img.shields.io/badge/18%2B-555555?style=flat-square)
+![Source private](https://img.shields.io/badge/source-private-555555?style=flat-square)
+
+<p align="center">
+  <a href="https://www.japasims.site"><img src="assets/japasims.png" width="640" alt="JapaSims" /></a>
 </p>
 
 ### More builds
