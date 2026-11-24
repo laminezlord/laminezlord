@@ -18,7 +18,7 @@
 class Laminez:
     role      = "AI/ML Engineer & Software Developer"
     building  = ["AI agents", "intelligent systems", "SaaS products"]
-    built     = ["AutoWave", "JapaSims", "PennyPal", "StockPilot", "Snapl"]
+    built     = ["AutoWave", "JapaSims", "X & O", "PennyPal", "StockPilot"]
     education = "ADSE @ Aptech  →  BSc Top-up @ Middlesex University"
     right_now = "Hacking at Cosmo Hacks 2026 🚀"
 
@@ -90,6 +90,19 @@ A multiplayer 3D life sim in the browser. Hustle through Lagos (NEPA, danfo, age
 
 <p align="center">
   <a href="https://www.japasims.site"><img src="assets/japasims.png" width="640" alt="JapaSims" /></a>
+</p>
+
+### ❌⭕ [X & O: The Duel](https://github.com/laminezlord/cinematic-x-and-o)
+
+Tic-tac-toe as a movie scene: neon marks that draw themselves in, slow-motion wins, screen shake and a synthesized soundtrack, all in a single HTML file. Face a minimax AI on Easy, Hard or Impossible, or play a friend. **[Play it →](https://cinematic-x-and-o.vercel.app)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Web Audio](https://img.shields.io/badge/Web%20Audio-333333?style=flat-square)
+![Minimax AI](https://img.shields.io/badge/Minimax%20AI-00E5FF?style=flat-square)
+
+<p align="center">
+  <a href="https://cinematic-x-and-o.vercel.app"><img src="https://raw.githubusercontent.com/laminezlord/cinematic-x-and-o/main/docs/menu.png" width="49%" alt="X & O title screen" /></a>
+  <a href="https://cinematic-x-and-o.vercel.app"><img src="https://raw.githubusercontent.com/laminezlord/cinematic-x-and-o/main/docs/board.png" width="49%" alt="X & O game in progress" /></a>
 </p>
 
 ### More builds
